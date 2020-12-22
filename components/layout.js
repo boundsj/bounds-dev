@@ -32,7 +32,9 @@ export default function Layout({ children, home }) {
           </>
         )}
       </header>
-      <main>{children}</main>
+      <body className="bg-white dark:bg-gray-800">
+        <main>{children}</main>
+      </body>
     </div>
   )
 }
