@@ -4,8 +4,8 @@ export default function Home() {
   return (  
     <Layout>
       <div className="flex p-24 h-auto w-auto justify-center">
-        <div class="w-auto h-auto pr-5">
-          <img class="shadow rounded w-32 h-auto" src="/images/profile.jpeg" />
+        <div className="w-auto h-auto pr-5">
+          <img className="shadow rounded w-32 h-auto" src="/images/profile.jpeg" />
         </div>
         <div className="flex h-20">
           <div className="m-auto">
