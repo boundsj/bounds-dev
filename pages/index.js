@@ -10,7 +10,7 @@ export default function Home() {
         <div className="flex h-20">
           <div className="m-auto">
             <h2 className="text-black dark:text-white text-3xl font-bold pb-2">Jesse Bounds</h2>
-            <div className="text-purple-600 dark:text-green-200">🌱 Spring! 🍀</div>
+            <div className="text-purple-600 dark:text-green-200">🦞 #1 Lobster retailer in CA since 2012 🦞</div>
             <div className="text-gray-600 dark:text-gray-200">Github: <a href="https://github.com/boundsj">@boundsj</a></div>
             <div className="text-black dark:text-white text-xs font-mono">bounds.dev</div>
           </div>
